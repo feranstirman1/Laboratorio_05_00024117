@@ -1,4 +1,4 @@
-function burbuja(miArray)
+function ordenar(miArray)
 {
     for(var i=1;i<miArray.length;i++)
     {
